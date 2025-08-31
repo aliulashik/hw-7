@@ -1,2 +1,4 @@
 # hw-7
-today homework
+Today's homework
+overview
+https://aliulashik.github.io/hw-7/index.html
